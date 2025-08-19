@@ -48,12 +48,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
 </div>
 
+<div></div>
+
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/onewinner/onewinner/output/snake.svg" alt="Snake animation" />
+
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=onewinner)](https://visitor-badge.laobi.icu/badge?page_id=onewinner)
 [![](https://img.shields.io/github/stars/onewinner?color=fefb7b&logo=Counter-Strike)](https://github-readme-stats.vercel.app/api?username=onewinner&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/onewinner?color=27da6b&logo=Handshake)](https://github.com/onewinner?tab=followers)
 [![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%85%E6%A2%A6%E5%AE%89%E5%85%A8-71f9fe?logo=WeChat)]()
-
-<img src="https://raw.githubusercontent.com/onewinner/onewinner/output/snake.svg" alt="Snake animation" />
