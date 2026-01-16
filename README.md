@@ -95,6 +95,7 @@
     </tr>
   </table>
 </div>
+<div align="center"> <h3>⚡ MPET (Multi-Protocol Exploitation Toolkit)</h3> <a href="https://github.com/onewinner/MPET"> <img src="https://github.com/onewinner/MPET/blob/main/frontend/public/icon.svg" alt="MPET" /> </a> <p align="center"> <strong>专业级多协议安全测试与漏洞利用工具</strong><br> 基于 Wails v2 框架构建的现代化桌面应用，提供 25+ 种主流服务协议的安全测试能力 </p> <div align="center"> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go" /> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js" /> <img src="https://img.shields.io/badge/Wails-2.0-7CFC00?style=flat-square&logo=go" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" /> <img src="https://img.shields.io/badge/Windows/Linux/macOS-兼容-0078D6?style=flat-square" /> </div> </div>
 <div align="center">
 
 </div>
